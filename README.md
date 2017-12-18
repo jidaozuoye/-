@@ -8,7 +8,7 @@
 <center>
 <p><strong><font size="+5">计导：计机711张镇镪：网页制作</font></strong></p><br /><br />
 <strong><font size="+3">
-<p>我的专业志趣  <a href="我的专业志趣.html">点击查看</a></p>
+<p>我的专业志趣  <a href="https://github.com/jidaozuoye/-1">点击查看</a></p>
 <p>专业论文排版.pdf  <a href="../网页文件/计导：计机711张镇镪：论文排版.pdf">点击下载</a></p>
 <p>Excel数据处理实验.xlsx  <a href="../网页文件/计机711张镇镪：Excel数据处理实验.xlsx">点击下载</a></p>
 <p>我的家乡  <a href="我的家乡.html">点击查看</a></p>
