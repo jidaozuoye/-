@@ -13,7 +13,7 @@
 <p>Excel数据处理实验.xlsx  <a href="https://github.com/jidaozuoye/zzq/raw/master/%E8%AE%A1%E6%9C%BA711%E5%BC%A0%E9%95%87%E9%95%AA%EF%BC%9AExcel%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86%E5%AE%9E%E9%AA%8C.xlsx">点击下载</a></p>
 <p>我的家乡  <a href="https://github.com/jidaozuoye/home/blob/master/README.md">点击查看</a></p>
 <p>我的家乡.pptx  <a href="https://github.com/jidaozuoye/zzq/raw/master/%E8%AE%A1%E5%AF%BC%EF%BC%9A%E8%AE%A1%E6%9C%BA711-%E5%BC%A0%E9%95%87%E9%95%AA%EF%BC%9A%E6%88%91%E7%9A%84%E5%AE%B6%E4%B9%A1.pptx">点击下载</a></p>
-<p>我的一个C语言作业  <a href="我的一个C语言作业.html">点击查看</a></p>
+<p>我的一个C语言作业  <a href="https://github.com/jidaozuoye/C/blob/master/README.md">点击查看</a></p>
 </font>
 </center>
 </body>
